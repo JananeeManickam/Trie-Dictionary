@@ -8,3 +8,11 @@ ABSTRACTION:
   We add another field to Trie node, a string which will hold the meaning of a word. While searching for the meaning of the required word, we search for the word in Trie and if the word is
   present, then we return its meaning. The outcome of this project is to find meaning of a given word. Additionally, we will be returning a set of synonyms for
   the given word. This feature helps the user to reduce the time on searching for the synonyms page by page.
+
+STEPS:
+  1. Get input string from the user.
+  2. It will return the meaning of the given word.
+  3. And then, it will search for the similar synonyms of the
+  given word.
+  4. Then, it will print the similar synonyms of that word.
+  5. This process is repeated, until the user wants to Exit.
